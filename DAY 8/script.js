@@ -84,6 +84,14 @@ let a = 10
 var b = 20  //Dont use it
 const c = 30
 
-c = 40; //This gives the error
+function name(){
+  a = "Anurag"
+  console.log(a); 
+}
+
+//c = 40; //This gives the error
+console.log(a);
+
+name()
 
 console.log(c)

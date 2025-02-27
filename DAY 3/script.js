@@ -9,7 +9,7 @@ let isloggedIn = false
 let state = null
 
 //Primitive data types
-//number => 2 to the power 33 has it range
+//number => 2 to the power 53 has it range
 //BigInt
 //string
 //Boolean
